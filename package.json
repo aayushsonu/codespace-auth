@@ -1,0 +1,20 @@
+{
+  "name": "codespace-auth",
+  "version": "1.0.0",
+  "description": "An auth system design on github",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aayushsonu/codespace-auth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aayushsonu/codespace-auth/issues"
+  },
+  "homepage": "https://github.com/aayushsonu/codespace-auth#readme"
+}
